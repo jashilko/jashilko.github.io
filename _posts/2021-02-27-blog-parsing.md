@@ -26,7 +26,8 @@ category: projects
 
 ## <a name="schema">Схема работы программы</a>
 
-![](../_screenshots/parsing-schema.png)
+![image](https://user-images.githubusercontent.com/5080414/109401042-621e3b80-795d-11eb-844a-a0ca5dd1b093.png)
+
 
 ## <a name="parsing">Парсинг</a>
 
@@ -82,5 +83,6 @@ category: projects
 ```
 
 Результат экспорта в Google Docs:
-![](../_screenshots/parsing-result.png)
+![image](https://user-images.githubusercontent.com/5080414/109401051-7104ee00-795d-11eb-9128-5528725e2238.png)
+
 
