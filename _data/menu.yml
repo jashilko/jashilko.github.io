@@ -1,8 +1,13 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-<a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>
-
+entries:
+  - title: Обо мне
+    entries:
+      - title: Работаю в <a href="#">Альфа банке</a>
+      - title: Воспитываю <a href="#">дочь</a>
+      - title: <a href="#">День рождения</a> - 12 марта
+      - title: <a href="#">Бегаю</a>
 
 entries:
   - title: info
