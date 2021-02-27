@@ -82,5 +82,5 @@ category: projects
 ```
 
 Результат экспорта в Google Docs:
-
+![](../_screenshots/parsing-result.png)
 
