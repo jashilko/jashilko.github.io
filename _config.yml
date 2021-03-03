@@ -4,7 +4,7 @@ email: jashilko@gmail.com # email of site's author
 url: https://jashilko.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist blog.
+  Konstantin Shilyaev personal mini-page
 
 permalink: /:slug.html
 
