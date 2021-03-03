@@ -1,5 +1,4 @@
-
-# Тестовое задание по SQL на собеседовании Поток.. 
+# Тестовое задание по SQL на собеседовании Поток. 
 
 
 Оглавление: 
@@ -19,10 +18,14 @@
 |     store_id      	|     int, PK          	|
 |     store_nm      	|     nvarchar(255)    	|
 
+
+
 |     dim_customers    	|                      	|
 |----------------------	|----------------------	|
 |     customer_id      	|     int, PK          	|
 |     customer_nm      	|     nvarchar(255)    	|
+
+
 
 |     fct_sales      	|                      	|
 |--------------------	|----------------------	|
@@ -84,7 +87,9 @@ having count(*)>3
 
 
 ## <a name="task3">Задача 3</a>
-```	select strftime('%m-%Y', sale_dt) month, t.t as 'total', s.store_id, ds.store_nm, sum(sale_amt) as 'sum_store', ROUND(sum(sale_amt)/t.t, 2) as '%' 
+
+```	
+select strftime('%m-%Y', sale_dt) month, t.t as 'total', s.store_id, ds.store_nm, sum(sale_amt) as 'sum_store', ROUND(sum(sale_amt)/t.t, 2) as '%' 
 	from fct_sales s
 	left join 
 	(
@@ -95,5 +100,7 @@ having count(*)>3
 	left join dim_stores ds on ds.store_id = s.store_id
 	group by month, s.store_id
 	order by month, s.store_id
+	
+	
 ```
 
