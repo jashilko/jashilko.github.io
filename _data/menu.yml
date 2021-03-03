@@ -2,7 +2,7 @@ entries:
   - title: Обо мне
     entries:
       - title: Работаю в <a href="#">Альфа банке</a>
-      - title: День рождения - 12 марта
+      - title: <a href="wishlist">День рождения</a> - 12 марта
       - title: Бегаю (<a href="https://www.strava.com/athletes/18825332">ссылка на Страву</a>)
 
   - title: Чего с сайтом? 
