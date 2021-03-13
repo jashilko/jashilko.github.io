@@ -16,7 +16,7 @@ title: Полина
 
 <a href="https://www.ukazka.ru/catalog/book-velikie-kompozitory-detyam-shchelkunchik-petr-ilich-chajkovskij-473702.html?frommarket=https%3A%2F%2Fm.market.yandex.ru%2Fproduct--flint-k-velikie-kompozitory-detiam-shchelkunchik%2F354790094%3Fpda-redir%3D1&ymclid=16156321817609852482600001"><img src="https://user-images.githubusercontent.com/5080414/111027630-6be67b00-8402-11eb-9ce7-47f2e720f182.png" alt="Щелкунчик" width="450"/></a>
 ```
-Другие книги серии Щелкунчика уже есть
+Другие книги этой серии уже есть
 ```
 
 ### 2. Беговел - *потому что в Москве медленно не ходят*
