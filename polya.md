@@ -14,6 +14,10 @@ title: Полина
 ### 1. Книги - *потому что пусть растет умненькой*  
 <a href="https://www.spbdk.ru/catalog/item-zaglyani_v_skazku_interaktivnaya_kniga/?gclid=CjwKCAiA4rGCBhAQEiwAelVti_k7HM5MUBYwgTGvgcsqCK3szu3DrkhUP28uvOSY-CqOFeqM0I8bYRoCufwQAvD_BwE"><img src="https://user-images.githubusercontent.com/5080414/111026923-245df000-83fe-11eb-8d53-e84e6bafee6b.png" alt="Загляни в сказку" width="450"/></a>
 
+<a href="https://www.ukazka.ru/catalog/book-velikie-kompozitory-detyam-shchelkunchik-petr-ilich-chajkovskij-473702.html?frommarket=https%3A%2F%2Fm.market.yandex.ru%2Fproduct--flint-k-velikie-kompozitory-detiam-shchelkunchik%2F354790094%3Fpda-redir%3D1&ymclid=16156321817609852482600001"><img src="https://user-images.githubusercontent.com/5080414/111027630-6be67b00-8402-11eb-9ce7-47f2e720f182.png" alt="Щелкунчик" width="450"/></a>
+```
+Другие книги серии Щелкунчика уже есть
+```
 
 ### 2. Беговел - *потому что в Москве медленно не ходят*
 <a href="https://pokupki.market.yandex.ru/product/begovel-triumf-active-al1201-zolotistyi/100941450742?show-uid=16156286620098206340406011&sku_main_pic=0"><img src="https://user-images.githubusercontent.com/5080414/111026599-0b543f80-83fc-11eb-80d6-23857031e860.png" alt="Беговел" width="450"/></a>
