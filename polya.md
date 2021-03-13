@@ -20,12 +20,12 @@ title: Полина
 
 
 ### 2. Беговел - *потому что в Москве медленно не ходят*
-![image](https://user-images.githubusercontent.com/5080414/111026599-0b543f80-83fc-11eb-80d6-23857031e860.png)
+<img src="https://user-images.githubusercontent.com/5080414/111026599-0b543f80-83fc-11eb-80d6-23857031e860.png" alt="Беговел" width="450"/>
 
 Мне вот такой понравился - [ссылка](https://pokupki.market.yandex.ru/product/begovel-triumf-active-al1201-zolotistyi/100941450742?show-uid=16156286620098206340406011&sku_main_pic=0)
 
 ### 3. Лего, которое она не сможет съесть - *потому что папка так и не стал инженером и перекладывает нереализованные мечты на ребенка*
-![image](https://user-images.githubusercontent.com/5080414/111026735-f6c47700-83fc-11eb-905b-917fbbef8cbe.png)
+<img src="https://user-images.githubusercontent.com/5080414/111026735-f6c47700-83fc-11eb-905b-917fbbef8cbe.png" alt="Лего" width="450"/>
 
 Конструктор Mega Bloks First Builders DCH63 Большая сумка строителя - [ссылка](https://market.yandex.ru/product--konstruktor-mega-bloks-first-builders-dch63-bolshaia-sumka-stroitelia/13176259?cpa=0)
 
