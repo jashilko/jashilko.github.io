@@ -23,8 +23,11 @@ title: Полина
 <img src="https://user-images.githubusercontent.com/5080414/111202476-f4b51080-85d4-11eb-9863-7f8c679ae437.png" alt="Беговел" width="450"/>
 
 
-### 3. Лего, которое она не сможет съесть - *потому что папка так и не стал инженером и перекладывает нереализованные мечты на ребенка*
+### 3. <s>Лего, которое она не сможет съесть - *потому что папка так и не стал инженером и перекладывает нереализованные мечты на ребенка*</s>
+<!--
 <a href="https://market.yandex.ru/product--konstruktor-mega-bloks-first-builders-dch63-bolshaia-sumka-stroitelia/13176259?cpa=0"><img src="https://user-images.githubusercontent.com/5080414/111026735-f6c47700-83fc-11eb-905b-917fbbef8cbe.png" alt="Лего" width="450"/></a>
+-->
+<img src="https://user-images.githubusercontent.com/5080414/111369615-51cdc680-86a8-11eb-88f9-3cabbd676b40.png" alt="Лего" width="450"/>
 
 
 ### 4. Коляска с куклой - *потому что сильны стереотипы о девочках*
