@@ -40,6 +40,8 @@ category: projects
 Бот задеплоен на Heroku
 
 ## <a name="adv">Ссылки и реклама</a>
+Ссылка на бота: https://t.me/GoodBadFoodBot
+
 Исходный код размещен по ссылке https://github.com/jashilko/BadGoodFoodBot
 
 Если вам нужны [телеграм боты](https://tlgrm.ru/docs/bots) для решения бизнес-задач, пишите run@kostya.run
