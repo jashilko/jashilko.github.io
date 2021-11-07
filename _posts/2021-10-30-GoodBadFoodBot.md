@@ -20,7 +20,7 @@ category: projects
 
 **Задача**: Создать telegram bot, в который можно отправлять фотки еды, продуктов в магазине и отмечать, хорошие они или плохие. 
 
-**Используемые технологии**: Python, PostgreSQL, Heroku
+**Используемые технологии**: Python, PostgreSQL, Heroku, Telegram Bot API
 
 
 ## <a name="features">Возможности бота</a>
