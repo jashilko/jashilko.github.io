@@ -28,7 +28,7 @@ title: Полина
 ### 5. Книга "Оглянись вокруг" // *я только за книги, но биология - это так скучно=(* // Цена: 1100
 <a href="https://www.mann-ivanov-ferber.ru/books/oglyanis-vokrug/?utm_medium=cpc&utm_source=google&utm_campaign=performance_max&utm_term=&utm_content=id_|cid_15228468193|aid_|gid_|pos_|src_x_|dvc_c|reg_9047029|rin||st_&gclid=Cj0KCQiA15yNBhDTARIsAGnwe0Ux-diIuJmLOnYVSpEseTOsht6FtUlWCvdnspaaUr1qkKcBCyAujnIaAgLzEALw_wcB"><img src="https://user-images.githubusercontent.com/5080414/144328047-d1f0c1b7-832c-4b53-a036-bce4b9601cd1.png" alt="фу-2" width="450"/></a>
 
-### 6. Серия книг "Малыш любит науку" // *критикую - предлагаю. Наука - это весело!* // Цена: 800 за штучку
+### 6. Серия книг "Малыш любит науку" // *критикую - предлагаю. Наука - это весело! * // Цена: 800 за штучку
 <a href="https://www.clever-media.ru/books/filter/serie-is-malysh-lyubit-nauku/apply/?title=%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%20%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%20%D0%BD%D0%B0%D1%83%D0%BA%D1%83"><img src="https://user-images.githubusercontent.com/5080414/144328154-605c3fd5-e4df-4880-9f06-aed66ebb24ac.jpg" alt="да" width="450"/></a>
 
 ### 7. Пальчиковый лабиринт // *я вообще не понимаю, что это. Женя, поясни ка* // Цена: 1100
