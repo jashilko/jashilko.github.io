@@ -16,7 +16,7 @@ title: Полина
 ### 1. Настольная игра "Прыгля" // *чтобы пальчиками шурум-бурум*  // Цена: 1200
 <a href="https://www.wildberries.ru/catalog/9660314/detail.aspx"><img src="https://user-images.githubusercontent.com/5080414/144327519-7b82701a-60cb-4aad-932d-790853739325.jpg" alt="че?" width="450" title="Цена: 1000-1200"/></a>
 
-### 2. Настольная игра "Экспресс-мороженое" // *как зимой то без мороженки* // Цена: 2200
+### 2. Настольная игра "Экспресс-мороженое" // *как зимой-то без мороженки* // Цена: 2200
 <a href="https://www.wildberries.ru/catalog/5976912/detail.aspx?targetUrl=XS"><img src="https://user-images.githubusercontent.com/5080414/144327657-f8cb5c79-7ffd-4d61-b172-7270cebfbd03.jpg" alt="Ням" width="450"/></a>
 
 ### 3. Логическая игра "Застенчивый кролик" // *деревянная игрушка, не прибитая к полу* // Цена: 2000
