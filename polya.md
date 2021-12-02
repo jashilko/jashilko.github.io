@@ -25,7 +25,7 @@ title: Полина
 ### 4. Книга "Как устроена жизнь на Земле" // *это Женя выбирала, я против!* // Цена: 1400
 <a href="https://www.wildberries.ru/catalog/17250133/detail.aspx?targetUrl=XS"><img src="https://user-images.githubusercontent.com/5080414/144327961-6bd8d276-f29d-4b21-b224-13422d594783.png" alt="фу" width="450"/></a>
 
-### 5. Книга "Оглянись вокруг" // *я только за книги, но биология - это так скучно=(* // Цена: 1100
+### <s>5. Книга "Оглянись вокруг" // *я только за книги, но биология - это так скучно=(* // Цена: 1100</s>
 <a href="https://www.mann-ivanov-ferber.ru/books/oglyanis-vokrug/?utm_medium=cpc&utm_source=google&utm_campaign=performance_max&utm_term=&utm_content=id_|cid_15228468193|aid_|gid_|pos_|src_x_|dvc_c|reg_9047029|rin||st_&gclid=Cj0KCQiA15yNBhDTARIsAGnwe0Ux-diIuJmLOnYVSpEseTOsht6FtUlWCvdnspaaUr1qkKcBCyAujnIaAgLzEALw_wcB"><img src="https://user-images.githubusercontent.com/5080414/144477185-6540fb22-2ef9-4f0d-a877-88a1f7855c8c.png" alt="фу-2" width="450"/></a>
 
 ### 6. Серия книг "Малыш любит науку" // *критикую — предлагаю. Наука - это весело!* // Цена: 800 за штучку
