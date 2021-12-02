@@ -26,7 +26,7 @@ title: Полина
 <a href="https://www.wildberries.ru/catalog/17250133/detail.aspx?targetUrl=XS"><img src="https://user-images.githubusercontent.com/5080414/144327961-6bd8d276-f29d-4b21-b224-13422d594783.png" alt="фу" width="450"/></a>
 
 ### 5. Книга "Оглянись вокруг" // *я только за книги, но биология - это так скучно=(* // Цена: 1100
-<a href="https://www.mann-ivanov-ferber.ru/books/oglyanis-vokrug/?utm_medium=cpc&utm_source=google&utm_campaign=performance_max&utm_term=&utm_content=id_|cid_15228468193|aid_|gid_|pos_|src_x_|dvc_c|reg_9047029|rin||st_&gclid=Cj0KCQiA15yNBhDTARIsAGnwe0Ux-diIuJmLOnYVSpEseTOsht6FtUlWCvdnspaaUr1qkKcBCyAujnIaAgLzEALw_wcB"><img src="https://user-images.githubusercontent.com/5080414/144328047-d1f0c1b7-832c-4b53-a036-bce4b9601cd1.png" alt="фу-2" width="450"/></a>
+<a href="https://www.mann-ivanov-ferber.ru/books/oglyanis-vokrug/?utm_medium=cpc&utm_source=google&utm_campaign=performance_max&utm_term=&utm_content=id_|cid_15228468193|aid_|gid_|pos_|src_x_|dvc_c|reg_9047029|rin||st_&gclid=Cj0KCQiA15yNBhDTARIsAGnwe0Ux-diIuJmLOnYVSpEseTOsht6FtUlWCvdnspaaUr1qkKcBCyAujnIaAgLzEALw_wcB"><img src="https://user-images.githubusercontent.com/5080414/144477185-6540fb22-2ef9-4f0d-a877-88a1f7855c8c.png" alt="фу-2" width="450"/></a>
 
 ### 6. Серия книг "Малыш любит науку" // *критикую — предлагаю. Наука - это весело!* // Цена: 800 за штучку
 <a href="https://www.clever-media.ru/books/filter/serie-is-malysh-lyubit-nauku/apply/?title=%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%20%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%20%D0%BD%D0%B0%D1%83%D0%BA%D1%83"><img src="https://user-images.githubusercontent.com/5080414/144328154-605c3fd5-e4df-4880-9f06-aed66ebb24ac.jpg" alt="да" width="450"/></a>
@@ -34,5 +34,12 @@ title: Полина
 ### 7. Пальчиковый лабиринт // *я вообще не понимаю, что это. Женя, поясни-ка* // Цена: 1100
 <a href="https://www.wildberries.ru/catalog/13763958/detail.aspx?targetUrl=XS"><img src="https://user-images.githubusercontent.com/5080414/144328293-43b23f47-9bef-4265-9030-1737a2228609.jpg
 " alt="wtf" width="450"/></a>
+
+### 8. Книга "Загляни в сказку" // *потому что пусть растет умненькой*   // Цена: 1300
+<a href="https://www.spbdk.ru/catalog/item-zaglyani_v_skazku_interaktivnaya_kniga/?gclid=CjwKCAiA4rGCBhAQEiwAelVti_k7HM5MUBYwgTGvgcsqCK3szu3DrkhUP28uvOSY-CqOFeqM0I8bYRoCufwQAvD_BwE"><img src="https://user-images.githubusercontent.com/5080414/111026923-245df000-83fe-11eb-8d53-e84e6bafee6b.png" alt="Загляни в сказку" width="450"/></a>
+
+### 9. Игрушка "Утиные горки на присосках в ванну" // *потому что все любят [утиные истории](https://music.yandex.ru/album/7486664/track/35557905)* // Цена: 2400
+<a href="https://www.wildberries.ru/catalog/38432828/detail.aspx?targetUrl=XS"><img src="https://images.wbstatic.net/c516x688/new/38430000/38432828-1.jpg" alt="хм" width="450"/></a>
+
 
 > ### Если что-то выбрали и решили подарить, напишите Косте или Жене, и мы удалим картинку с этой страницы
