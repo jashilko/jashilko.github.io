@@ -1,11 +1,10 @@
-title: chin up, dude! # name of the sit
-author: Shilyaev Kos # name of site's author
+title: chin up, dude! # name of the site
+author: Shilyaev Kost # name of site's author
 email: jashilko@gmail.com # email of site's author
 url: https://jashilko.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
   Konstantin personal mini-page 
-
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
