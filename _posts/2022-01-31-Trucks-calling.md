@@ -105,11 +105,10 @@ timeout = 10
 
 ## <a name="scrins">Скриншоты</a>
 Веб интерфейс: 
+![image](https://user-images.githubusercontent.com/5080414/152872167-c9bc1162-d4dd-4b37-b339-188ad3ad6f56.png)
 
 Форма логина: 
-
-Лог работы программы: 
-
+![image](https://user-images.githubusercontent.com/5080414/152871619-9177b231-89af-4494-a3cd-ca581073d7de.png)
 
 
 ## <a name="challenges">Трудности, с которыми столкнулся</a>
