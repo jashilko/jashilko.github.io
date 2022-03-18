@@ -17,7 +17,7 @@ title: Полина
 <a href="https://www.wildberries.ru/catalog/9660314/detail.aspx"><img src="https://user-images.githubusercontent.com/5080414/144327519-7b82701a-60cb-4aad-932d-790853739325.jpg" alt="че?" width="450" title="Цена: 1000-1200"/></a>
 
 ### 2. Настольная игра "Экспресс-мороженое" // *как зимой-то без мороженки* // ~~(Цена2021: 2200)~~ Цена 1890
-<a href="https://www.wildberries.ru/catalog/5976912/detail.aspx?targetUrl=XS"><img src="https://user-images.githubusercontent.com/5080414/144327657-f8cb5c79-7ffd-4d61-b172-7270cebfbd03.jpg" alt="Ням" width="450"/></a>
+<a href="https://www.igroved.ru/games/go-go-gelato-eng/"><img src="https://user-images.githubusercontent.com/5080414/144327657-f8cb5c79-7ffd-4d61-b172-7270cebfbd03.jpg" alt="Ням" width="450"/></a>
 
 ### 3. Серия книг "Малыш любит науку" // *Наука - это весело!* // Цена: 800 за штучку
 <a href="https://www.clever-media.ru/books/filter/serie-is-malysh-lyubit-nauku/apply/?title=%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%20%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%20%D0%BD%D0%B0%D1%83%D0%BA%D1%83"><img src="https://user-images.githubusercontent.com/5080414/144328154-605c3fd5-e4df-4880-9f06-aed66ebb24ac.jpg" alt="да" width="450"/></a>
