@@ -37,12 +37,11 @@ title: Полина
 ### 8. Книга "Почему? Самые интересные детские вопросы о природе, науке и мире вокруг нас" // *по качану!* //  Цена: 1300
 <a href="https://www.labirint.ru/books/455269/"><img src="https://user-images.githubusercontent.com/5080414/158951041-a8cb12e7-0319-4804-994a-d64748448a66.jpg" alt="хм" width="450"/></a>
 
-### 9. Книга "Твои суперценности" // *не про супермена* //  Цена: 700
-<a href="hthttps://www.mann-ivanov-ferber.ru/books/tvoi-supercennosti/"><img src="https://user-images.githubusercontent.com/5080414/158951292-a7f0d746-f024-413e-ad05-2917ae953294.jpg" alt="хм" width="450"/></a>
+### 9. Книга "Твои суперспособности" // *не про супермена* //  Цена: 700
+<a href="https://www.mann-ivanov-ferber.ru/books/tvoi-supersposobnosti/"><img src="https://user-images.githubusercontent.com/5080414/158954306-f127a261-0672-46bd-aea6-8d6a1637ae88.jpg" alt="хм" width="450"/></a>
 
 ### 10. Книги Вики Смирновой или Книги Корнелии Спилман // *эмоциональный интеллект* //  Цена: 200
 <img src="https://user-images.githubusercontent.com/5080414/158952190-0f526d39-4628-4289-964a-69311c4bf74a.jpg" alt="хм" width="700"/>
-
 
 
 > ### Если что-то выбрали и решили подарить, напишите Косте или Жене, и мы удалим картинку с этой страницы
