@@ -13,8 +13,8 @@ title: Полина
 ### Список пожеланий ниже. Картинки кликабельны, а которые уже подарены, те зачеркнуты: 
 
 
-### 1. Настольная игра "Прыгля" // *чтобы пальчиками шурум-бурум*  // (~~Цена2021: 1200~~) Цена: 1400
-<a href="https://www.wildberries.ru/catalog/9660314/detail.aspx"><img src="https://user-images.githubusercontent.com/5080414/144327519-7b82701a-60cb-4aad-932d-790853739325.jpg" alt="че?" width="450" title="Цена: 1000-1200"/></a>
+### ~~1. Настольная игра "Прыгля" // *чтобы пальчиками шурум-бурум*  // (~~Цена2021: 1200~~) Цена: 1400~~
+<img src="https://user-images.githubusercontent.com/5080414/144327519-7b82701a-60cb-4aad-932d-790853739325.jpg" alt="че?" width="450" title="Цена: 1000-1200"/>
 
 ### 2. Настольная игра "Экспресс-мороженое" // *как зимой-то без мороженки* // ~~(Цена2021: 2200)~~ Цена 1890
 <a href="https://www.igroved.ru/games/go-go-gelato-eng/"><img src="https://user-images.githubusercontent.com/5080414/144327657-f8cb5c79-7ffd-4d61-b172-7270cebfbd03.jpg" alt="Ням" width="450"/></a>
@@ -22,8 +22,8 @@ title: Полина
 ### 3. Серия книг "Малыш любит науку" // *Наука - это весело!* // Цена: 800 за штучку
 <a href="https://www.clever-media.ru/books/filter/serie-is-malysh-lyubit-nauku/apply/?title=%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%20%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%20%D0%BD%D0%B0%D1%83%D0%BA%D1%83"><img src="https://user-images.githubusercontent.com/5080414/144328154-605c3fd5-e4df-4880-9f06-aed66ebb24ac.jpg" alt="да" width="450"/></a>
 
-### 4. Игрушка "Утиные горки на присосках в ванну" // *потому что все любят [утиные истории](https://music.yandex.ru/album/7486664/track/35557905)* // ~~(Цена2021: 2400)~~ Цена: 2000
-<a href="https://www.wildberries.ru/catalog/38432828/detail.aspx?targetUrl=XS"><img src="https://images.wbstatic.net/c516x688/new/38430000/38432828-1.jpg" alt="хм" width="450"/></a>
+### ~~4. Игрушка "Утиные горки на присосках в ванну" // *потому что все любят [утиные истории](https://music.yandex.ru/album/7486664/track/35557905)* // Цена: 2000~~
+<img src="https://images.wbstatic.net/c516x688/new/38430000/38432828-1.jpg" alt="хм" width="450"/>
 
 ### 5. Игрушка "Магнитный планшет" // *мелкая моторика* //  Цена: 800
 <a href="https://market.yandex.ru/product--magnitnyi-planshet-doska-dlia-risovaniia-magnitami-380-detalei/1397074686?cpa=1&cpc=EoQw5t4jbIQ9D7OM1lhvEdS_pA0bffEHdDuuS04aDA_NcsBBfqytxaYSsFz5UjTHZLq0yavXwyHZbut2tjCdeMBKNTxTbSXZ1STa86p3bzhVaAOaj_gxy7jJRupJhpk1LcXAU9jGQt3QIoE8Ia3qnRod95vzDSOKKFUoI_9HTSCI2dktOc0JdQ%2C%2C&sku=101385265503&do-waremd5=5f4ujkFpokjkEmcSRWXEHQ&nid=17985568"><img src="https://user-images.githubusercontent.com/5080414/158949981-b13aac76-6dc7-42e6-aedb-b03428c06b28.jpg" alt="хм" width="450"/></a>
