@@ -10,38 +10,43 @@ title: Полина
 
 ### Поэтому мы просим: не дарите ей больше. И даже, если однажды все ее игрушки превратятся в тыкву, то она точно сможет играть ещё полгода со всеми ложками, пакетиками и роботами-пылесосами в нашем доме. 
 
-### А дарить можно (картинки кликабельны, а которые уже подарены, те зачеркнуты): 
+### Список пожеланий ниже. Картинки кликабельны, а которые уже подарены, те зачеркнуты: 
 
 
-### 1. Настольная игра "Прыгля" // *чтобы пальчиками шурум-бурум*  // Цена: 1200
+### 1. Настольная игра "Прыгля" // *чтобы пальчиками шурум-бурум*  // (~~Цена2021: 1200~~) Цена: 1400
 <a href="https://www.wildberries.ru/catalog/9660314/detail.aspx"><img src="https://user-images.githubusercontent.com/5080414/144327519-7b82701a-60cb-4aad-932d-790853739325.jpg" alt="че?" width="450" title="Цена: 1000-1200"/></a>
 
-### 2. Настольная игра "Экспресс-мороженое" // *как зимой-то без мороженки* // Цена: 2200
+### 2. Настольная игра "Экспресс-мороженое" // *как зимой-то без мороженки* // ~~(Цена2021: 2200)~~ Цена 1890
 <a href="https://www.wildberries.ru/catalog/5976912/detail.aspx?targetUrl=XS"><img src="https://user-images.githubusercontent.com/5080414/144327657-f8cb5c79-7ffd-4d61-b172-7270cebfbd03.jpg" alt="Ням" width="450"/></a>
 
-### 3. Логическая игра "Застенчивый кролик" // *деревянная игрушка, не прибитая к полу* // Цена: 2000
-<a href="https://www.wildberries.ru/catalog/3239300/detail.aspx?targetUrl=XS"><img src="https://user-images.githubusercontent.com/5080414/144327907-aef4f45f-a2fb-46cc-a45c-34989377dd82.jpg" alt="Кроль" width="450"/></a>
-
-### 4. Книга "Как устроена жизнь на Земле" // *это Женя выбирала, я против!* // Цена: 1400
-<a href="https://www.wildberries.ru/catalog/17250133/detail.aspx?targetUrl=XS"><img src="https://user-images.githubusercontent.com/5080414/144327961-6bd8d276-f29d-4b21-b224-13422d594783.png" alt="фу" width="450"/></a>
-
-### <s>5. Книга "Оглянись вокруг" // *я только за книги, но биология - это так скучно=(* // Цена: 1100</s>
-<a href="https://www.mann-ivanov-ferber.ru/books/oglyanis-vokrug/?utm_medium=cpc&utm_source=google&utm_campaign=performance_max&utm_term=&utm_content=id_|cid_15228468193|aid_|gid_|pos_|src_x_|dvc_c|reg_9047029|rin||st_&gclid=Cj0KCQiA15yNBhDTARIsAGnwe0Ux-diIuJmLOnYVSpEseTOsht6FtUlWCvdnspaaUr1qkKcBCyAujnIaAgLzEALw_wcB"><img src="https://user-images.githubusercontent.com/5080414/144477185-6540fb22-2ef9-4f0d-a877-88a1f7855c8c.png" alt="фу-2" width="450"/></a>
-
-### 6. Серия книг "Малыш любит науку" // *критикую — предлагаю. Наука - это весело!* // Цена: 800 за штучку
+### 3. Серия книг "Малыш любит науку" // *Наука - это весело!* // Цена: 800 за штучку
 <a href="https://www.clever-media.ru/books/filter/serie-is-malysh-lyubit-nauku/apply/?title=%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%20%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%20%D0%BD%D0%B0%D1%83%D0%BA%D1%83"><img src="https://user-images.githubusercontent.com/5080414/144328154-605c3fd5-e4df-4880-9f06-aed66ebb24ac.jpg" alt="да" width="450"/></a>
 
-### 7. Пальчиковый лабиринт // *я вообще не понимаю, что это. Женя, поясни-ка* // Цена: 1100
-<a href="https://www.wildberries.ru/catalog/13763958/detail.aspx?targetUrl=XS"><img src="https://user-images.githubusercontent.com/5080414/144328293-43b23f47-9bef-4265-9030-1737a2228609.jpg
-" alt="wtf" width="450"/></a>
-
-### 8. Книга "Загляни в сказку" // *потому что пусть растет умненькой*   // Цена: 1300
-<a href="https://www.spbdk.ru/catalog/item-zaglyani_v_skazku_interaktivnaya_kniga/?gclid=CjwKCAiA4rGCBhAQEiwAelVti_k7HM5MUBYwgTGvgcsqCK3szu3DrkhUP28uvOSY-CqOFeqM0I8bYRoCufwQAvD_BwE"><img src="https://user-images.githubusercontent.com/5080414/111026923-245df000-83fe-11eb-8d53-e84e6bafee6b.png" alt="Загляни в сказку" width="450"/></a>
-
-### 9. Игрушка "Утиные горки на присосках в ванну" // *потому что все любят [утиные истории](https://music.yandex.ru/album/7486664/track/35557905)* // Цена: 2400
+### 4. Игрушка "Утиные горки на присосках в ванну" // *потому что все любят [утиные истории](https://music.yandex.ru/album/7486664/track/35557905)* // ~~(Цена2021: 2400)~~ Цена: 2000
 <a href="https://www.wildberries.ru/catalog/38432828/detail.aspx?targetUrl=XS"><img src="https://images.wbstatic.net/c516x688/new/38430000/38432828-1.jpg" alt="хм" width="450"/></a>
+
+### 5. Игрушка "Магнитный планшет" // *мелкая моторика* //  Цена: 800
+<a href="https://market.yandex.ru/product--magnitnyi-planshet-doska-dlia-risovaniia-magnitami-380-detalei/1397074686?cpa=1&cpc=EoQw5t4jbIQ9D7OM1lhvEdS_pA0bffEHdDuuS04aDA_NcsBBfqytxaYSsFz5UjTHZLq0yavXwyHZbut2tjCdeMBKNTxTbSXZ1STa86p3bzhVaAOaj_gxy7jJRupJhpk1LcXAU9jGQt3QIoE8Ia3qnRod95vzDSOKKFUoI_9HTSCI2dktOc0JdQ%2C%2C&sku=101385265503&do-waremd5=5f4ujkFpokjkEmcSRWXEHQ&nid=17985568"><img src="https://user-images.githubusercontent.com/5080414/158949981-b13aac76-6dc7-42e6-aedb-b03428c06b28.jpg" alt="хм" width="450"/></a>
+
+### 6. Игрушка "Гуджитсу" // *делаем ставки, за сколько порвет* //  Цена: 1700
+<a href="https://www.ozon.ru/product/gudzhitsu-igrushka-taz-kosmicheskiy-dzhem-tyanushchayasya-figurka-goojitzu-278858463/?asb=6MTaSGxn2amBIOu0ydPGA9n1GsiZuj%252FPeRxIXnF3ECwLKP%252Fa%252BUo%252FmixDCCfpAnCM&asb2=5hSVUwOKWNZHbM_ItA9nitximO4Ot3PWz8K_KiB_5kWjdS7kkIOojbbnQFHrwMzGK3c-E4gzREkp5dYH6OrzAg9uyg4Yi0MLKvMUMk-aYiBQjoDkN0GFkghBB1mxV_SrCeZ1cX-adu_Gb_-o84fqGg&sh=IbS7urSARw&tab=reviews"><img src="https://user-images.githubusercontent.com/5080414/158950390-39264fe4-f2aa-4a62-9736-02d43379f052.jpg"  alt="хм" width="450"/></a>
+
+### 7. Баланс борд с лабиринтом // *сами хотим быть в балансе* //  Цена: 2600
+<a href="https://www.ozon.ru/product/balans-bord-s-labirintom-balansirovochnaya-doska-balansir-balansbord-podarok-rebenku-318117444/?sh=IbS7uqev0g"><img src="https://user-images.githubusercontent.com/5080414/158950659-ac93f54d-6a66-4a79-8b6b-c798b2018ab6.jpg" alt="хм" width="450"/></a>
+
+### 8. Книга "Почему? Самые интересные детские вопросы о природе, науке и мире вокруг нас" // *по качану!* //  Цена: 1300
+<a href="https://www.labirint.ru/books/455269/"><img src="https://user-images.githubusercontent.com/5080414/158951041-a8cb12e7-0319-4804-994a-d64748448a66.jpg" alt="хм" width="450"/></a>
+
+### 9. Книга "Твои суперценности" // *не про супермена* //  Цена: 700
+<a href="hthttps://www.mann-ivanov-ferber.ru/books/tvoi-supercennosti/"><img src="https://user-images.githubusercontent.com/5080414/158951292-a7f0d746-f024-413e-ad05-2917ae953294.jpg" alt="хм" width="450"/></a>
+
+### 10. Книги Вики Смирновой или Книги Корнелии Спилман // *эмоциональный интеллект* //  Цена: 200
+<img src="https://user-images.githubusercontent.com/5080414/158951292-a7f0d746-f024-413e-ad05-2917ae953294.jpg" alt="хм" width="450"/>
+
 
 
 > ### Если что-то выбрали и решили подарить, напишите Косте или Жене, и мы удалим картинку с этой страницы
+
+
 
 
