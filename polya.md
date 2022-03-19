@@ -31,8 +31,8 @@ title: Полина
 ### 6. Игрушка "Гуджитсу" // *делаем ставки, за сколько порвет* //  Цена: 1700
 <a href="https://www.ozon.ru/product/gudzhitsu-igrushka-taz-kosmicheskiy-dzhem-tyanushchayasya-figurka-goojitzu-278858463/?asb=6MTaSGxn2amBIOu0ydPGA9n1GsiZuj%252FPeRxIXnF3ECwLKP%252Fa%252BUo%252FmixDCCfpAnCM&asb2=5hSVUwOKWNZHbM_ItA9nitximO4Ot3PWz8K_KiB_5kWjdS7kkIOojbbnQFHrwMzGK3c-E4gzREkp5dYH6OrzAg9uyg4Yi0MLKvMUMk-aYiBQjoDkN0GFkghBB1mxV_SrCeZ1cX-adu_Gb_-o84fqGg&sh=IbS7urSARw&tab=reviews"><img src="https://user-images.githubusercontent.com/5080414/158950390-39264fe4-f2aa-4a62-9736-02d43379f052.jpg"  alt="хм" width="450"/></a>
 
-### 7. Баланс борд с лабиринтом // *сами хотим быть в балансе* //  Цена: 2600
-<a href="https://www.ozon.ru/product/balans-bord-s-labirintom-balansirovochnaya-doska-balansir-balansbord-podarok-rebenku-318117444/?sh=IbS7uqev0g"><img src="https://user-images.githubusercontent.com/5080414/158950659-ac93f54d-6a66-4a79-8b6b-c798b2018ab6.jpg" alt="хм" width="450"/></a>
+### ~~7. Баланс борд с лабиринтом // *сами хотим быть в балансе* //  Цена: 2600~~
+<img src="https://user-images.githubusercontent.com/5080414/158950659-ac93f54d-6a66-4a79-8b6b-c798b2018ab6.jpg" alt="хм" width="450"/>
 
 ### 8. Книга "Почему? Самые интересные детские вопросы о природе, науке и мире вокруг нас" // *по качану!* //  Цена: 1300
 <a href="https://www.labirint.ru/books/455269/"><img src="https://user-images.githubusercontent.com/5080414/158951041-a8cb12e7-0319-4804-994a-d64748448a66.jpg" alt="хм" width="450"/></a>
